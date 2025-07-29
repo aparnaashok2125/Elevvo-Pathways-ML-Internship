@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Internship Projects – Elevvo Pathways
+# Machine Learning Internship Projects – Elevvo Pathways
 
 Welcome to the repository showcasing the hands-on projects I completed during my **2-week Machine Learning Internship** with **Elevvo Pathways**.
 
@@ -6,7 +6,7 @@ Over the course of this internship, I worked on 4 diverse and practical machine 
 
 ---
 
-## 📁 Projects Overview
+## Projects Overview
 
 ### 🔹 1. Traffic Sign Recognition
 - **Description**: Image classification using CNN on the German Traffic Sign Recognition Benchmark (GTSRB).
@@ -46,7 +46,7 @@ Over the course of this internship, I worked on 4 diverse and practical machine 
 
 ---
 
-## 📌 Highlights
+## Highlights
 - Applied both supervised and unsupervised learning techniques.
 - Built, evaluated, and fine-tuned models.
 - Focused on real-world datasets and practical problem-solving.
@@ -54,12 +54,12 @@ Over the course of this internship, I worked on 4 diverse and practical machine 
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 Special thanks to **Elevvo Pathways** for designing such a structured and insightful internship experience. The learning-by-doing approach was incredibly valuable.
 
 ---
 
-## 📫 Contact
+## Contact
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/aparnaashok2125) if you’d like to discuss the projects or collaborate.
 
 ---
