@@ -1,6 +1,6 @@
 # Machine Learning Internship Projects – Elevvo Pathways
 
-Welcome to the repository showcasing the hands-on projects I completed during my **2-week Machine Learning Internship** with **Elevvo Pathways**.
+Welcome to the repository showcasing the hands-on projects I completed during my **4-week Machine Learning Internship** with **Elevvo Pathways**.
 
 Over the course of this internship, I worked on 4 diverse and practical machine learning tasks. Each project explores a unique aspect of ML — from supervised regression and classification to unsupervised clustering and deep learning with CNNs.
 
